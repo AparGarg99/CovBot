@@ -17,11 +17,11 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
+# USE CASE DEMO 🎥
 
 ![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
 
-Watch the [Video]() for more details.
+Watch the [Video](https://drive.google.com/file/d/1L7XgaYJPNweWEYLXCjTzagpVlAsZ4L4H/view?usp=sharing) for more details.
 
 ---
 
@@ -36,8 +36,10 @@ Refer to [Installation Guide]() and [User Guide]().
 | Full Name  | Work Items (Who Did What) | Email ID |
 | :---------------:| :-----| :-----|
 | Apar Garg    | Web scraping, Find Special Needs Learning Facilities Nearby fulfillment, Heroku deployment, Report and documentation | apargarg99@gmail.com |
-| Gopan Ravikumar Girija  | Web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | rggopan123@gmail.com |
-| Yeong Wee Ping  | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | aceirus@hotmail.com |
+| Lin Qianqian  | Web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | linqianqian70@outlook.com |
+| Liu Jing  | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | e0703435@u.nus.edu |
+| Yang Mingrun | |e0703376@u.nus.edu |
+| Zhu Junkun | |zhujunkun10@126.com |
 
 ---
 
