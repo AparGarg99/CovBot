@@ -40,8 +40,8 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/CovBot/blob/mast
 | Apar Garg    |Covid screening using cough audio recordings functionality, Report| apargarg99@gmail.com |
 | Lin Qianqian  |Fake tweet detection, Front-end development, Video  | linqianqian70@outlook.com |
 | Liu Jing  |Fake tweet detection, Video| e0703435@u.nus.edu |
-| Yang Mingrun |FAQ Answering functionality, Report|e0703376@u.nus.edu |
-| Zhu Junkun | FAQ Answering functionality, Report|zhujunkun10@126.com |
+| Yang Mingrun |FAQ Answering functionality, PPT|e0703376@u.nus.edu |
+| Zhu Junkun | FAQ Answering functionality, PPT|zhujunkun10@126.com |
 
 ---
 
