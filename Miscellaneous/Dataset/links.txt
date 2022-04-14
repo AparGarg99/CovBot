@@ -1,0 +1,9 @@
+Please download dataset from following links:
+
+FAQ Answering: https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
+
+Fake Tweet Detection: https://www.kaggle.com/datasets/elvinagammed/covid19-fake-news-dataset-nlp
+
+Covid Screening Using Cough (Virufy): https://github.com/virufy/virufy-data
+
+Covid Screening Using Cough (Coughvid): https://github.com/virufy/virufy-cdf-coughvid
