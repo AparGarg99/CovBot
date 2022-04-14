@@ -18,8 +18,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 ---
 
 # USE CASE DEMO 🎥
-
-![](https://github.com/AparGarg99/CovBot/blob/master/Miscellaneous/demo.gif)
+<img src="https://github.com/AparGarg99/CovBot/blob/master/Miscellaneous/demo.gif" width=540 height=960>
 
 Watch the [Video](https://drive.google.com/file/d/1L7XgaYJPNweWEYLXCjTzagpVlAsZ4L4H/view?usp=sharing) for more details.
 
