@@ -12,6 +12,7 @@ The ongoing pandemic is having a huge impact on all aspects of people's lives ar
 In this project, we have introduced a medical domain-specific chatbot system using natural language processing and deep learning techniques. The system can answer frequently asked queries related to COVID-19 by gathering and summarizing information from various authentic web sources. Moreover, it provides other useful features including the ‘Fake tweet detection’ and ‘COVID-19 screening using cough audio recordings’.
 
 <br>
+
 For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
 
 ---
@@ -20,6 +21,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AparGarg99/CovBot/blob/master/Miscellaneous/demo.gif" width=360 height=640>
 
 <br>
+
 Watch the [Video](https://drive.google.com/file/d/1L7XgaYJPNweWEYLXCjTzagpVlAsZ4L4H/view?usp=sharing) for more details.
 
 ---
