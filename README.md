@@ -27,7 +27,7 @@ Watch the [Video](https://drive.google.com/file/d/1L7XgaYJPNweWEYLXCjTzagpVlAsZ4
 
 # INSTALLATION AND USER GUIDE 🔌
 
-Refer to [Installation Guide]() and [User Guide]().
+Refer to the [Installation Guide](https://github.com/AparGarg99/CovBot/blob/master/Documentation/Installation%20Guide.pdf) and [User Guide](https://github.com/AparGarg99/CovBot/blob/master/Documentation/User%20Guide.pdf).
 
 ---
 
