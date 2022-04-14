@@ -19,7 +19,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 # USE CASE DEMO 🎥
 
-![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
+![](https://github.com/AparGarg99/CovBot/blob/master/Miscellaneous/demo.gif)
 
 Watch the [Video](https://drive.google.com/file/d/1L7XgaYJPNweWEYLXCjTzagpVlAsZ4L4H/view?usp=sharing) for more details.
 
