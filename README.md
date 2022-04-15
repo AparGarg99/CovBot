@@ -14,7 +14,7 @@ In this project, we have introduced a medical domain-specific chatbot system usi
 
 <br>
 
-For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
+For more details refer to the [PPT](https://github.com/AparGarg99/CovBot/blob/master/Documentation/PPT.pptx) and [Report](https://github.com/AparGarg99/CovBot/blob/master/Documentation/Report.pdf).
 
 ---
 
